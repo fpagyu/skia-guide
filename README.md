@@ -12,3 +12,12 @@
 
 [skia-binaries](https://github.com/rust-skia/skia-binaries/releases/tag/0.78.2)
 
+
+## skia language binding
+[Skiko--kotlin binding](https://github.com/JetBrains/skiko)
+[SkiaKit--swift binging](https://github.com/migueldeicaza/SkiaKit)
+[SkiaSharp--C# binding](https://github.com/mono/SkiaSharp)
+
+## skia 代码示例c++
+[SkiaInAction](https://github.com/xland/SkiaInAction)
+[Chromium代码](https://source.chromium.org/chromium/chromium/src/+/main:third_party/skia/gm/vertices.cpp)
